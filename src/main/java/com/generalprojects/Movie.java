@@ -1,4 +1,4 @@
-package com.example.nodemo;
+package com.generalprojects;
 
 
 import java.util.ArrayList;
